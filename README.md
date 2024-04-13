@@ -44,7 +44,6 @@ Scikit-learn (Linear Regression & Random Forest Regression)
 ### Next Steps:
 Fine-tune the model parameters for better performance.
 Explore additional features that might improve prediction accuracy.
+Deploy the model for real-time base fare prediction.
 
 Data: Contains the dataset used for analysis. itenaries can be found here - https://www.kaggle.com/datasets/dilwong/flightprices?resource=download
-
-Deploy the model for real-time base fare prediction.
