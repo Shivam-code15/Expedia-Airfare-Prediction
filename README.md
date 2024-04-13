@@ -1,17 +1,17 @@
-### Expedia-Airfare-Prediction
+# Expedia-Airfare-Prediction
 
-# Project Overview:
+### Project Overview:
 Predicted base fare prices for airline tickets using Random Forest Regression.
 Explored and analyzed the dataset containing various flight and ticket information.
 
-# Key Skills Demonstrated:
+### Key Skills Demonstrated:
 Data Cleaning: Handled missing values, removed duplicates, and checked for data integrity.
 Feature Engineering: Created new features like dayDiff and transformed categorical variables into numerical format.
 Exploratory Data Analysis (EDA): Explored relationships between variables and visualized key insights.
 Model Training: Utilized Random Forest Regression and Linear Regression to predict base fares.
 Model Evaluation: Calculated R-squared to assess model performance.
 
-# Key Insights:
+### Key Insights:
 Airports & Base Fare:
 
 Identified OAK as having the highest base fare and BOS with the lowest.
@@ -35,13 +35,13 @@ Refundable Flights:
 
 Noted that refundable flights tended to have higher base fares.
 
-# Technologies Used:
+### Technologies Used:
 Python
 Pandas, NumPy
 Matplotlib
 Scikit-learn (Linear Regression & Random Forest Regression)
 
-# Next Steps:
+### Next Steps:
 Fine-tune the model parameters for better performance.
 Explore additional features that might improve prediction accuracy.
 
